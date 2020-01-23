@@ -9,7 +9,7 @@
     'depends': ['base'],
     'demo': [],
     'data': [
-        'security/library_security.xml',
+        'security/employee_assignment_security.xml',
         'security/ir.model.access.csv',
         'views/building_view.xml',
 
